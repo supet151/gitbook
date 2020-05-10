@@ -1,7 +1,6 @@
 # 正则表达式&JavaScript's RegExp对象
 来源：[阮一峰-JavaScript标准参考教程](https://javascript.ruanyifeng.com/stdlib/regexp.html#toc10)
 
-[TOC]
 
 ##  正则表达式的匹配规则
 ### 字面量与元字符
